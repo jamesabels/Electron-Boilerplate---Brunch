@@ -40,7 +40,7 @@
     "require": "^2.4.20",
     "sass-brunch": "^2.0.0",
     "uglify-js-brunch": "^2.0.0",
-    "xo": "^0.12.0"
+    "xo": "^0.41.0"
   },
   "xo": {
     "esnext": true,
